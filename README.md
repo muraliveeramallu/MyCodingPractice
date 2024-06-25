@@ -1,1 +1,1 @@
-# MyCodingPractice #
+# My Java CodingPractice #
